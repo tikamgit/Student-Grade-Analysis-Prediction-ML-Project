@@ -1,0 +1,490 @@
+Student ID,Gender,Age,Family Size,Parent's Education,Student's Education,Subject,Period 1 Grade,Period 2 Grade,Period 3 Grade,Period 4 Grade,Social Factor 1,Social Factor 2,College Related Feature 1,College Related Feature 2
+1,Male,19,Small,Higher,Secondary,Mathematics,14,13,10,19,High,Medium,5,2
+2,Male,21,Small,Secondary,Higher,Mathematics,18,20,12,11,High,Low,3,2
+3,Female,18,Small,Secondary,Higher,Machine Learning,17,12,14,14,Low,Medium,5,3
+4,Female,21,Small,Secondary,Higher,Machine Learning,14,14,17,17,Medium,High,4,4
+5,Male,19,Small,Higher,Higher,Machine Learning,19,19,10,18,Low,High,3,4
+6,Female,19,Small,Secondary,Higher,Mathematics,14,16,18,10,Low,Low,3,2
+7,Female,18,Small,Higher,Secondary,Machine Learning,16,16,18,17,Medium,Low,4,2
+8,Male,20,Small,Higher,Secondary,Mathematics,17,16,17,14,High,Low,2,5
+9,Female,20,Small,Secondary,Higher,Machine Learning,16,20,10,10,Low,Low,2,4
+10,Female,18,Medium,Higher,Secondary,Mathematics,19,19,15,16,Low,High,3,3
+11,Male,21,Medium,Higher,Higher,Mathematics,10,11,16,19,Medium,Medium,2,4
+12,Male,19,Small,Higher,Secondary,Machine Learning,14,19,14,11,Medium,High,2,3
+13,Male,20,Small,Secondary,Higher,Machine Learning,16,13,13,14,High,High,2,3
+14,Female,21,Medium,Secondary,Secondary,Machine Learning,11,13,15,14,Low,Low,4,2
+15,Female,21,Small,Secondary,Higher,Mathematics,14,17,10,14,High,Low,5,5
+16,Male,19,Medium,Secondary,Secondary,Machine Learning,14,20,13,15,High,High,4,2
+17,Female,18,Small,Higher,Secondary,Mathematics,18,10,12,15,Medium,Low,4,4
+18,Female,21,Small,Secondary,Higher,Machine Learning,19,20,20,12,Low,Medium,4,3
+19,Male,19,Small,Higher,Secondary,Mathematics,17,11,12,20,High,Low,2,3
+20,Female,18,Small,Higher,Secondary,Mathematics,16,10,11,19,Medium,High,4,3
+21,Female,18,Medium,Secondary,Higher,Machine Learning,10,16,19,13,Low,Medium,4,4
+22,Female,21,Small,Secondary,Higher,Mathematics,12,12,11,18,Medium,Low,4,3
+23,Female,20,Medium,Higher,Secondary,Machine Learning,12,17,19,11,Low,High,4,4
+24,Female,21,Medium,Higher,Secondary,Machine Learning,12,12,17,18,High,High,2,5
+25,Male,20,Small,Higher,Higher,Mathematics,16,11,15,10,Low,Medium,5,5
+26,Female,20,Small,Higher,Secondary,Machine Learning,14,17,19,12,Medium,Medium,4,2
+27,Female,18,Medium,Higher,Secondary,Mathematics,20,18,16,11,High,Low,3,5
+28,Female,20,Small,Higher,Secondary,Mathematics,11,12,14,16,High,High,4,3
+29,Male,21,Medium,Higher,Secondary,Machine Learning,11,11,15,17,High,High,2,2
+30,Female,18,Small,Secondary,Higher,Mathematics,14,16,10,12,Medium,High,2,3
+31,Male,18,Small,Higher,Higher,Mathematics,11,16,15,17,Medium,High,4,3
+32,Female,18,Medium,Secondary,Secondary,Machine Learning,11,16,10,13,High,Low,4,3
+33,Male,20,Small,Secondary,Higher,Mathematics,13,10,12,20,High,Low,3,3
+34,Female,19,Small,Secondary,Secondary,Mathematics,13,10,14,17,Medium,Low,3,3
+35,Female,20,Small,Secondary,Higher,Machine Learning,10,16,12,18,Medium,High,2,4
+36,Female,18,Small,Higher,Higher,Machine Learning,14,12,11,15,High,High,4,5
+37,Female,21,Medium,Higher,Higher,Machine Learning,11,17,13,20,Medium,Medium,2,5
+38,Female,18,Medium,Secondary,Higher,Machine Learning,20,10,16,16,High,High,2,4
+39,Male,18,Small,Higher,Secondary,Machine Learning,19,20,17,14,High,Medium,2,5
+40,Female,21,Small,Higher,Higher,Machine Learning,16,16,10,20,Medium,Medium,3,2
+41,Female,21,Small,Higher,Secondary,Mathematics,19,12,19,16,High,Medium,2,5
+42,Male,19,Medium,Secondary,Secondary,Mathematics,16,15,17,13,Medium,Medium,5,4
+43,Female,21,Small,Higher,Higher,Mathematics,20,10,12,20,High,Low,2,3
+44,Male,20,Medium,Higher,Higher,Machine Learning,16,15,13,14,Medium,Low,2,2
+45,Male,21,Small,Higher,Secondary,Mathematics,19,11,12,13,Medium,Medium,5,5
+46,Male,19,Medium,Secondary,Higher,Mathematics,14,10,13,13,High,Low,2,5
+47,Female,18,Small,Higher,Higher,Machine Learning,15,10,12,19,High,Low,5,2
+48,Male,20,Small,Secondary,Higher,Mathematics,18,11,13,14,High,Medium,2,3
+49,Female,21,Small,Higher,Higher,Mathematics,16,12,15,15,Low,Medium,2,2
+50,Female,18,Medium,Secondary,Higher,Machine Learning,11,20,14,20,Low,Medium,3,2
+51,Male,18,Medium,Secondary,Secondary,Mathematics,17,19,13,15,Medium,Low,2,5
+52,Female,20,Medium,Secondary,Higher,Mathematics,12,11,15,14,Medium,High,5,4
+53,Male,18,Small,Higher,Higher,Mathematics,15,13,10,15,Medium,Low,3,2
+54,Female,19,Small,Higher,Secondary,Mathematics,10,16,19,19,Medium,High,2,3
+55,Female,21,Medium,Higher,Secondary,Machine Learning,14,12,20,15,Low,High,2,4
+56,Male,18,Small,Secondary,Higher,Machine Learning,15,14,18,17,Low,Low,2,2
+57,Male,18,Medium,Secondary,Secondary,Mathematics,13,16,13,10,Medium,Medium,4,4
+58,Male,21,Medium,Secondary,Secondary,Machine Learning,11,14,19,19,Medium,Medium,5,3
+59,Male,20,Medium,Higher,Higher,Machine Learning,18,15,17,10,High,Medium,3,5
+60,Male,20,Medium,Secondary,Secondary,Machine Learning,18,11,16,18,Medium,Low,2,5
+61,Female,21,Small,Secondary,Higher,Machine Learning,19,10,19,14,Medium,Low,3,3
+62,Female,21,Medium,Higher,Higher,Machine Learning,20,12,14,15,Low,Medium,2,3
+63,Male,20,Small,Higher,Higher,Mathematics,13,11,10,11,Medium,High,3,2
+64,Male,20,Small,Higher,Secondary,Mathematics,12,20,11,15,High,High,2,5
+65,Female,18,Medium,Secondary,Secondary,Machine Learning,20,20,20,12,Low,High,3,5
+66,Male,20,Small,Secondary,Higher,Machine Learning,15,13,20,12,Medium,Medium,4,5
+67,Female,19,Medium,Higher,Secondary,Mathematics,10,16,18,10,Medium,High,5,5
+68,Female,21,Small,Higher,Higher,Mathematics,19,12,14,11,Medium,Medium,5,3
+69,Female,19,Small,Secondary,Higher,Machine Learning,14,11,12,11,Medium,Low,3,2
+70,Female,21,Medium,Higher,Secondary,Mathematics,12,16,11,10,Medium,Low,3,4
+71,Male,19,Small,Secondary,Higher,Mathematics,19,13,20,11,Low,High,3,4
+72,Female,19,Medium,Higher,Secondary,Mathematics,18,19,20,13,High,Medium,2,2
+73,Male,19,Medium,Secondary,Higher,Machine Learning,13,17,16,10,Low,Medium,4,2
+74,Female,21,Medium,Secondary,Secondary,Machine Learning,13,11,16,18,High,Medium,4,4
+75,Female,20,Small,Secondary,Higher,Machine Learning,10,10,14,17,High,Low,5,4
+76,Female,18,Small,Higher,Secondary,Mathematics,13,11,14,19,High,High,3,4
+77,Female,21,Medium,Higher,Higher,Mathematics,15,18,18,15,High,Medium,3,4
+78,Male,19,Small,Higher,Secondary,Mathematics,15,12,16,14,Low,High,5,3
+79,Female,18,Small,Secondary,Higher,Machine Learning,20,13,18,15,Low,Low,4,2
+80,Female,20,Small,Higher,Higher,Mathematics,20,16,10,11,Medium,High,5,5
+81,Female,18,Medium,Secondary,Higher,Mathematics,10,12,15,19,High,Low,3,5
+82,Female,18,Medium,Secondary,Secondary,Mathematics,12,17,15,16,Medium,High,2,5
+83,Male,21,Small,Higher,Secondary,Mathematics,18,18,16,14,High,Medium,2,3
+84,Male,20,Small,Higher,Higher,Mathematics,14,11,20,15,Low,High,4,2
+85,Male,21,Medium,Secondary,Higher,Machine Learning,20,14,18,18,Medium,High,3,5
+86,Male,19,Medium,Secondary,Higher,Machine Learning,13,12,18,16,Medium,Low,5,3
+87,Male,19,Small,Secondary,Higher,Mathematics,15,10,20,10,High,Low,2,3
+88,Female,20,Small,Secondary,Secondary,Machine Learning,13,13,20,15,Low,High,5,2
+89,Female,19,Small,Secondary,Higher,Mathematics,16,14,16,13,Medium,High,2,2
+90,Male,20,Medium,Secondary,Secondary,Mathematics,16,20,19,16,High,High,4,2
+91,Female,18,Small,Secondary,Higher,Machine Learning,15,18,16,16,Medium,Low,2,5
+92,Male,19,Medium,Higher,Secondary,Machine Learning,18,15,11,18,Medium,High,2,2
+93,Male,18,Medium,Secondary,Higher,Mathematics,18,19,20,19,Medium,High,2,3
+94,Female,21,Medium,Higher,Secondary,Machine Learning,13,17,12,15,Medium,Low,4,5
+95,Male,21,Small,Higher,Higher,Mathematics,18,16,11,19,High,Low,5,5
+96,Male,21,Small,Higher,Higher,Machine Learning,19,20,19,17,High,Low,2,5
+97,Male,18,Small,Higher,Secondary,Mathematics,14,18,11,16,High,Low,4,4
+98,Female,19,Small,Higher,Higher,Machine Learning,12,18,13,20,High,Medium,3,5
+99,Male,21,Medium,Secondary,Higher,Machine Learning,19,20,19,19,Low,High,3,3
+100,Male,18,Small,Higher,Higher,Mathematics,13,12,10,10,Medium,Low,2,2
+101,Male,20,Medium,Higher,Secondary,Mathematics,19,15,10,11,Medium,Low,5,3
+102,Female,19,Small,Higher,Secondary,Machine Learning,14,13,13,15,High,Low,2,3
+103,Male,21,Small,Secondary,Higher,Mathematics,14,14,15,15,Medium,Low,4,4
+104,Female,19,Small,Higher,Higher,Mathematics,17,11,14,11,High,Medium,3,3
+105,Male,19,Small,Higher,Secondary,Mathematics,19,11,20,19,Medium,High,3,4
+106,Female,21,Medium,Secondary,Secondary,Mathematics,20,19,16,19,Medium,Medium,4,5
+107,Male,18,Medium,Higher,Secondary,Machine Learning,19,18,11,12,Medium,Medium,3,3
+108,Female,18,Small,Higher,Higher,Machine Learning,20,16,13,19,Low,Low,2,4
+109,Female,20,Medium,Higher,Secondary,Mathematics,20,10,10,20,Medium,High,3,4
+110,Female,18,Small,Secondary,Higher,Mathematics,14,16,11,15,High,Medium,4,5
+111,Female,21,Small,Secondary,Secondary,Machine Learning,14,16,12,10,Low,Medium,4,4
+112,Female,21,Small,Secondary,Secondary,Machine Learning,15,11,10,10,High,Medium,3,2
+113,Male,18,Small,Secondary,Higher,Mathematics,14,10,10,19,High,Low,5,2
+114,Male,18,Small,Secondary,Secondary,Mathematics,12,17,11,11,High,High,4,3
+115,Male,19,Small,Higher,Higher,Mathematics,13,10,12,11,Low,High,2,5
+116,Male,19,Medium,Higher,Secondary,Mathematics,18,18,16,19,High,Low,5,4
+117,Male,21,Medium,Higher,Higher,Mathematics,13,19,18,15,High,Medium,3,2
+118,Male,19,Medium,Secondary,Higher,Mathematics,12,15,15,18,Medium,Medium,3,3
+119,Female,20,Small,Higher,Secondary,Machine Learning,15,20,15,11,High,Medium,4,5
+120,Female,20,Small,Higher,Secondary,Machine Learning,18,10,18,18,Medium,High,5,5
+121,Male,20,Small,Secondary,Secondary,Mathematics,17,11,18,20,Medium,Medium,5,5
+122,Female,18,Small,Secondary,Secondary,Mathematics,12,12,17,20,Low,Low,4,3
+123,Male,20,Medium,Higher,Higher,Mathematics,16,10,20,17,Medium,Medium,4,2
+124,Male,19,Medium,Secondary,Higher,Machine Learning,14,16,18,11,High,High,4,4
+125,Male,21,Medium,Higher,Higher,Mathematics,12,10,12,20,Medium,Low,5,5
+126,Male,20,Medium,Higher,Secondary,Mathematics,12,16,14,13,High,Low,5,4
+127,Male,21,Medium,Higher,Secondary,Machine Learning,13,15,16,11,High,High,5,3
+128,Male,21,Small,Secondary,Higher,Machine Learning,12,11,13,12,High,Medium,4,4
+129,Female,19,Medium,Higher,Higher,Mathematics,13,18,16,18,Medium,High,5,4
+130,Male,20,Medium,Secondary,Secondary,Mathematics,11,19,11,19,Low,Medium,3,3
+131,Female,20,Medium,Secondary,Higher,Machine Learning,20,10,15,16,Medium,High,2,4
+132,Female,20,Medium,Higher,Secondary,Mathematics,16,10,13,17,High,High,5,4
+133,Female,19,Small,Secondary,Secondary,Mathematics,13,14,13,17,High,Low,3,3
+134,Female,21,Small,Secondary,Secondary,Mathematics,19,14,10,18,Low,Medium,5,2
+135,Female,18,Small,Higher,Secondary,Mathematics,19,13,14,12,Medium,Low,5,5
+136,Male,19,Medium,Higher,Higher,Mathematics,18,18,18,20,Medium,Low,3,2
+137,Female,19,Small,Secondary,Secondary,Mathematics,20,18,17,14,Medium,Medium,4,4
+138,Male,21,Medium,Secondary,Secondary,Mathematics,11,15,17,11,Low,Medium,4,3
+139,Male,21,Small,Higher,Secondary,Mathematics,10,17,20,20,Medium,High,4,3
+140,Female,21,Medium,Higher,Higher,Mathematics,17,12,17,12,High,Medium,4,3
+141,Male,19,Small,Secondary,Higher,Machine Learning,19,17,13,13,High,High,5,3
+142,Female,21,Medium,Secondary,Secondary,Machine Learning,10,17,16,10,Low,Low,5,4
+143,Male,18,Medium,Secondary,Higher,Mathematics,16,18,17,10,Low,High,4,2
+144,Female,19,Medium,Higher,Higher,Machine Learning,18,18,13,19,Medium,Low,5,3
+145,Female,20,Medium,Higher,Higher,Machine Learning,11,14,14,10,Medium,High,5,3
+146,Male,19,Small,Secondary,Higher,Mathematics,12,15,18,19,Low,High,4,2
+147,Female,19,Small,Secondary,Higher,Machine Learning,10,19,11,20,Low,Low,5,3
+148,Male,21,Small,Higher,Secondary,Machine Learning,17,15,12,11,Medium,High,5,4
+149,Male,20,Medium,Higher,Higher,Machine Learning,10,14,11,19,High,Low,3,2
+150,Female,21,Medium,Secondary,Secondary,Mathematics,13,12,12,16,Medium,Medium,4,5
+151,Female,18,Small,Secondary,Higher,Machine Learning,11,13,15,11,Low,Low,3,5
+152,Female,20,Small,Secondary,Higher,Mathematics,20,10,12,11,Medium,High,2,2
+153,Female,19,Small,Secondary,Secondary,Machine Learning,15,12,19,14,High,Medium,3,4
+154,Male,20,Medium,Higher,Higher,Machine Learning,15,11,13,20,Medium,High,4,5
+155,Male,18,Medium,Secondary,Secondary,Machine Learning,11,11,14,18,High,High,4,5
+156,Male,18,Small,Higher,Higher,Mathematics,15,16,17,11,Medium,High,4,3
+157,Female,20,Small,Secondary,Higher,Machine Learning,17,12,13,12,Medium,High,4,4
+158,Female,19,Small,Secondary,Secondary,Machine Learning,14,13,15,17,Low,Low,3,2
+159,Female,20,Small,Higher,Higher,Machine Learning,18,17,11,16,High,High,2,5
+160,Male,19,Medium,Secondary,Higher,Mathematics,14,15,10,13,Low,High,5,4
+161,Female,19,Medium,Higher,Higher,Mathematics,19,10,20,19,High,Low,3,4
+162,Male,18,Small,Secondary,Secondary,Mathematics,11,20,20,19,Medium,High,3,4
+163,Male,21,Small,Higher,Higher,Machine Learning,13,13,13,19,Medium,Medium,4,5
+164,Male,18,Small,Secondary,Higher,Machine Learning,14,15,19,18,Low,Medium,3,5
+165,Female,20,Small,Higher,Secondary,Machine Learning,11,20,11,10,Low,High,2,2
+166,Female,20,Medium,Secondary,Higher,Mathematics,13,20,18,12,Low,Medium,2,4
+167,Female,19,Medium,Secondary,Secondary,Machine Learning,18,13,16,12,Low,Low,3,4
+168,Male,18,Small,Secondary,Higher,Machine Learning,14,20,14,18,Low,High,5,3
+169,Female,21,Small,Higher,Higher,Machine Learning,13,19,18,14,High,High,2,2
+170,Male,18,Medium,Higher,Higher,Mathematics,20,20,15,10,High,High,4,5
+171,Male,18,Small,Higher,Higher,Mathematics,10,14,18,14,Medium,Medium,2,5
+172,Female,20,Medium,Secondary,Secondary,Mathematics,20,18,18,12,Medium,Low,5,2
+173,Male,19,Medium,Higher,Higher,Machine Learning,14,19,13,19,Medium,High,3,3
+174,Male,20,Medium,Secondary,Higher,Mathematics,19,16,14,17,Medium,Low,2,3
+175,Female,19,Small,Secondary,Secondary,Mathematics,17,16,16,20,High,Low,5,5
+176,Male,18,Small,Secondary,Higher,Mathematics,14,18,12,20,Medium,High,4,4
+177,Female,21,Medium,Secondary,Higher,Machine Learning,17,18,14,15,Low,Low,4,3
+178,Male,18,Small,Higher,Secondary,Mathematics,10,11,15,19,Low,Low,4,3
+179,Male,20,Small,Secondary,Higher,Machine Learning,16,14,15,18,High,High,3,2
+180,Male,20,Medium,Secondary,Secondary,Machine Learning,17,12,13,19,High,Medium,5,4
+181,Male,19,Medium,Higher,Secondary,Mathematics,16,16,17,20,Low,High,4,2
+182,Female,18,Small,Secondary,Secondary,Machine Learning,20,15,11,15,High,Low,2,2
+183,Male,18,Small,Higher,Secondary,Mathematics,12,20,17,14,Low,Medium,4,5
+184,Male,20,Medium,Secondary,Secondary,Machine Learning,15,16,20,19,High,Medium,2,4
+185,Female,18,Small,Secondary,Higher,Machine Learning,16,20,12,19,High,Low,3,5
+186,Female,20,Medium,Secondary,Secondary,Mathematics,15,19,19,18,Low,High,2,4
+187,Female,19,Medium,Higher,Secondary,Mathematics,15,10,18,19,High,High,3,3
+188,Female,18,Medium,Secondary,Secondary,Mathematics,17,17,16,14,Low,High,2,2
+189,Female,18,Small,Secondary,Secondary,Mathematics,12,20,13,10,Medium,Low,5,5
+190,Male,19,Small,Secondary,Secondary,Mathematics,10,16,18,10,High,Medium,2,3
+191,Male,21,Medium,Secondary,Higher,Mathematics,17,17,17,11,Low,Low,2,3
+192,Male,19,Small,Secondary,Secondary,Mathematics,18,15,10,14,High,High,3,5
+193,Female,19,Small,Higher,Secondary,Machine Learning,16,13,17,15,High,High,4,2
+194,Male,21,Small,Higher,Secondary,Mathematics,15,18,17,13,Low,Low,2,2
+195,Male,20,Small,Higher,Secondary,Machine Learning,19,17,18,16,Medium,Medium,2,2
+196,Male,18,Medium,Higher,Higher,Mathematics,12,12,14,10,Low,Low,2,5
+197,Female,20,Medium,Higher,Higher,Mathematics,10,16,18,20,High,Medium,4,3
+198,Male,19,Small,Secondary,Secondary,Machine Learning,13,18,11,19,Low,Medium,5,3
+199,Female,21,Small,Secondary,Secondary,Mathematics,18,20,18,16,Low,High,3,4
+200,Female,19,Small,Higher,Higher,Machine Learning,15,10,12,11,Medium,Medium,5,4
+201,Female,19,Small,Secondary,Higher,Machine Learning,18,11,14,14,High,Low,3,3
+202,Female,18,Small,Higher,Secondary,Mathematics,18,15,15,17,Low,Low,3,5
+203,Female,19,Small,Higher,Secondary,Mathematics,20,16,16,12,Medium,Medium,5,3
+204,Male,18,Small,Secondary,Secondary,Mathematics,18,20,13,10,High,Medium,5,5
+205,Female,18,Medium,Secondary,Higher,Machine Learning,15,14,11,12,Low,Medium,4,4
+206,Female,21,Small,Secondary,Higher,Machine Learning,18,15,11,20,Low,Low,4,5
+207,Female,21,Small,Secondary,Higher,Machine Learning,15,15,12,19,High,Low,5,4
+208,Male,19,Small,Higher,Higher,Mathematics,20,11,18,11,High,Low,4,5
+209,Female,20,Small,Secondary,Higher,Machine Learning,15,11,15,10,Low,High,5,4
+210,Male,19,Medium,Secondary,Higher,Mathematics,19,12,15,14,Medium,Medium,4,4
+211,Female,18,Medium,Higher,Secondary,Mathematics,15,15,19,11,Low,Low,4,4
+212,Male,20,Medium,Secondary,Secondary,Mathematics,10,10,10,10,Medium,Medium,4,5
+213,Male,19,Small,Secondary,Higher,Mathematics,19,12,10,14,Low,Low,5,4
+214,Female,21,Small,Higher,Secondary,Mathematics,14,17,13,16,Low,Low,5,4
+215,Male,20,Medium,Higher,Higher,Mathematics,15,14,18,18,Low,Low,2,4
+216,Female,21,Small,Secondary,Higher,Mathematics,19,14,15,17,Low,Low,5,4
+217,Male,18,Small,Higher,Higher,Machine Learning,20,14,13,10,High,High,2,5
+218,Female,21,Small,Higher,Secondary,Machine Learning,19,12,13,17,Medium,Low,3,2
+219,Female,20,Small,Higher,Secondary,Mathematics,16,16,11,13,High,Low,3,2
+220,Female,21,Small,Secondary,Higher,Mathematics,12,18,12,11,Low,High,5,4
+221,Male,19,Medium,Secondary,Secondary,Mathematics,15,10,10,14,Low,High,3,2
+222,Male,18,Small,Secondary,Higher,Mathematics,13,17,18,16,Low,Medium,4,2
+223,Male,19,Medium,Higher,Secondary,Mathematics,10,15,11,15,High,Low,5,4
+224,Female,20,Medium,Higher,Secondary,Machine Learning,12,14,15,15,Medium,Medium,3,2
+225,Male,19,Small,Higher,Higher,Mathematics,18,20,20,17,Medium,Medium,5,4
+226,Male,21,Medium,Higher,Higher,Mathematics,13,16,14,13,High,Low,2,5
+227,Male,18,Medium,Higher,Secondary,Mathematics,17,20,19,17,Low,Low,3,3
+228,Female,20,Medium,Higher,Secondary,Machine Learning,12,11,16,10,Low,Medium,4,5
+229,Female,19,Small,Higher,Secondary,Mathematics,13,20,12,15,Medium,High,2,2
+230,Male,21,Small,Secondary,Higher,Machine Learning,13,15,18,19,Medium,Low,2,4
+231,Male,21,Medium,Secondary,Higher,Machine Learning,15,19,18,10,High,Medium,3,3
+232,Female,18,Small,Higher,Secondary,Machine Learning,19,11,18,14,High,Medium,5,3
+233,Female,21,Medium,Higher,Higher,Machine Learning,13,15,13,17,Low,High,2,2
+234,Male,19,Medium,Secondary,Secondary,Mathematics,11,18,16,10,High,High,4,3
+235,Female,18,Small,Secondary,Secondary,Machine Learning,11,15,16,19,Medium,Low,3,4
+236,Male,18,Medium,Secondary,Secondary,Mathematics,13,15,16,16,High,High,5,4
+237,Male,20,Medium,Higher,Secondary,Machine Learning,10,18,17,20,Low,Low,3,4
+238,Female,20,Medium,Higher,Secondary,Machine Learning,18,12,14,18,High,High,5,3
+239,Female,21,Medium,Secondary,Secondary,Mathematics,10,14,13,20,Low,High,4,5
+240,Female,19,Medium,Secondary,Secondary,Machine Learning,12,11,16,15,High,High,5,3
+241,Male,19,Medium,Secondary,Secondary,Mathematics,20,14,11,20,Low,Low,3,4
+242,Male,20,Medium,Secondary,Secondary,Mathematics,10,16,20,19,Medium,High,3,5
+243,Female,18,Medium,Secondary,Higher,Mathematics,14,15,10,10,High,Medium,2,2
+244,Female,19,Medium,Higher,Higher,Machine Learning,12,15,15,14,High,Medium,5,5
+245,Male,21,Medium,Secondary,Higher,Machine Learning,12,10,13,12,High,High,3,4
+246,Female,19,Medium,Higher,Secondary,Mathematics,11,17,19,20,Medium,Low,2,4
+247,Female,18,Small,Secondary,Higher,Machine Learning,14,14,12,12,Low,High,5,2
+248,Male,20,Medium,Higher,Secondary,Machine Learning,14,10,17,16,Medium,Low,2,5
+249,Female,19,Small,Secondary,Secondary,Mathematics,13,15,13,15,Low,Low,3,2
+250,Male,18,Small,Secondary,Secondary,Machine Learning,12,10,20,20,Medium,Low,4,5
+251,Female,21,Medium,Higher,Secondary,Mathematics,18,13,18,12,High,Low,2,3
+252,Male,21,Medium,Higher,Secondary,Mathematics,11,17,10,11,Medium,Low,2,2
+253,Female,21,Small,Higher,Secondary,Mathematics,18,11,12,20,High,High,3,2
+254,Male,19,Small,Secondary,Higher,Mathematics,12,10,10,11,High,Low,2,3
+255,Male,20,Small,Higher,Higher,Mathematics,10,12,13,11,Low,High,5,5
+256,Male,19,Small,Higher,Higher,Mathematics,20,13,20,17,Medium,High,5,4
+257,Female,21,Small,Higher,Higher,Machine Learning,13,18,12,16,Medium,Low,3,4
+258,Male,20,Medium,Higher,Secondary,Mathematics,18,13,13,19,Low,High,5,2
+259,Female,18,Small,Secondary,Secondary,Machine Learning,12,16,15,17,Medium,High,4,4
+260,Female,19,Medium,Secondary,Secondary,Machine Learning,15,18,19,18,Medium,High,2,2
+261,Female,19,Small,Secondary,Higher,Mathematics,12,12,19,17,Low,High,3,4
+262,Male,20,Medium,Higher,Higher,Mathematics,10,13,19,11,Low,Medium,4,2
+263,Male,18,Medium,Higher,Higher,Machine Learning,17,15,11,15,Low,Medium,4,4
+264,Male,21,Medium,Higher,Secondary,Mathematics,13,10,18,16,High,Medium,5,3
+265,Female,20,Small,Higher,Higher,Machine Learning,17,16,12,13,Low,Low,5,3
+266,Male,21,Small,Secondary,Higher,Machine Learning,16,14,13,11,High,High,4,3
+267,Male,20,Small,Secondary,Secondary,Machine Learning,20,17,14,13,High,High,3,4
+268,Male,21,Medium,Secondary,Secondary,Mathematics,13,11,17,11,Medium,High,5,3
+269,Female,20,Small,Secondary,Higher,Machine Learning,18,18,10,19,Low,Low,4,5
+270,Male,21,Medium,Secondary,Higher,Machine Learning,16,17,13,17,Low,Low,2,4
+271,Male,20,Small,Higher,Higher,Machine Learning,17,19,20,19,High,Medium,3,3
+272,Male,20,Small,Secondary,Higher,Machine Learning,13,14,19,11,Low,High,2,3
+273,Male,21,Medium,Secondary,Secondary,Machine Learning,16,10,14,15,High,Medium,3,3
+274,Male,19,Small,Secondary,Higher,Machine Learning,20,16,19,17,Medium,High,4,3
+275,Male,19,Medium,Higher,Higher,Machine Learning,14,18,20,17,High,Low,3,5
+276,Male,20,Medium,Higher,Secondary,Mathematics,15,12,18,14,Medium,Medium,3,2
+277,Male,20,Medium,Higher,Higher,Mathematics,10,15,15,13,Medium,Low,4,3
+278,Male,21,Medium,Higher,Higher,Machine Learning,14,13,15,12,High,Low,4,2
+279,Female,19,Small,Higher,Secondary,Machine Learning,12,14,15,12,High,Low,4,4
+280,Male,21,Small,Secondary,Secondary,Mathematics,18,20,18,11,Low,High,4,4
+281,Female,20,Small,Secondary,Higher,Machine Learning,15,14,12,19,Medium,Low,2,5
+282,Female,21,Small,Higher,Higher,Machine Learning,12,16,14,11,Low,Low,5,2
+283,Male,19,Medium,Higher,Higher,Mathematics,12,13,17,17,High,Low,3,2
+284,Female,19,Medium,Secondary,Secondary,Machine Learning,14,16,13,16,Low,Medium,3,2
+285,Male,21,Small,Higher,Higher,Mathematics,19,10,11,14,Medium,High,5,2
+286,Female,19,Medium,Higher,Secondary,Machine Learning,15,15,10,18,High,Low,3,3
+287,Male,20,Medium,Secondary,Secondary,Mathematics,13,14,13,15,Medium,Low,2,4
+288,Male,18,Small,Secondary,Higher,Mathematics,15,18,13,20,Medium,Medium,3,5
+289,Female,19,Small,Secondary,Higher,Mathematics,20,13,17,10,Medium,Low,4,4
+290,Male,18,Medium,Higher,Higher,Mathematics,10,12,18,11,Low,Medium,3,2
+291,Female,19,Medium,Secondary,Secondary,Machine Learning,18,17,20,10,High,Medium,3,2
+292,Male,18,Small,Secondary,Secondary,Mathematics,19,14,12,15,Low,Low,5,5
+293,Male,19,Small,Secondary,Secondary,Mathematics,11,14,11,19,Medium,High,3,2
+294,Male,19,Medium,Higher,Higher,Machine Learning,16,15,11,19,Medium,Medium,3,4
+295,Female,21,Medium,Higher,Secondary,Machine Learning,12,11,20,18,High,Low,2,5
+296,Female,20,Medium,Higher,Secondary,Machine Learning,16,18,19,16,High,Low,3,2
+297,Female,21,Medium,Secondary,Secondary,Mathematics,18,10,13,15,Medium,High,3,4
+298,Male,18,Small,Secondary,Higher,Machine Learning,17,10,20,14,Low,High,5,4
+299,Male,21,Small,Secondary,Higher,Mathematics,13,10,15,19,Medium,High,2,4
+300,Female,19,Small,Secondary,Secondary,Mathematics,15,15,18,12,Medium,High,2,5
+301,Male,18,Medium,Secondary,Secondary,Mathematics,16,14,15,18,High,High,3,3
+302,Female,21,Medium,Higher,Secondary,Machine Learning,11,15,17,10,Low,High,4,3
+303,Female,20,Small,Higher,Higher,Mathematics,19,13,12,18,Low,Low,5,5
+304,Male,19,Small,Secondary,Higher,Machine Learning,15,10,18,20,Medium,High,4,3
+305,Female,18,Medium,Secondary,Higher,Machine Learning,12,11,18,15,Medium,Medium,3,4
+306,Male,20,Medium,Higher,Secondary,Machine Learning,18,13,11,18,Medium,Medium,5,2
+307,Female,19,Medium,Higher,Higher,Mathematics,18,13,14,20,Low,Medium,2,2
+308,Female,21,Medium,Higher,Higher,Machine Learning,12,14,12,11,High,Low,3,3
+309,Female,20,Medium,Higher,Higher,Mathematics,19,20,18,14,Low,Low,2,2
+310,Female,19,Medium,Secondary,Secondary,Machine Learning,14,15,13,15,Medium,Medium,2,4
+311,Male,21,Medium,Higher,Secondary,Mathematics,15,13,18,12,Medium,Low,2,5
+312,Male,20,Medium,Higher,Secondary,Machine Learning,15,19,14,20,High,Low,5,3
+313,Male,20,Small,Secondary,Secondary,Machine Learning,15,15,20,12,Medium,High,2,4
+314,Male,19,Small,Higher,Higher,Mathematics,15,11,15,10,Medium,Medium,2,5
+315,Female,19,Medium,Secondary,Higher,Machine Learning,19,10,13,15,Low,Low,3,2
+316,Female,19,Small,Secondary,Secondary,Machine Learning,14,10,13,20,Medium,Low,3,4
+317,Male,19,Small,Secondary,Secondary,Mathematics,15,19,19,14,Medium,Low,5,5
+318,Male,21,Medium,Higher,Secondary,Mathematics,11,16,14,16,High,Medium,3,4
+319,Male,18,Small,Secondary,Secondary,Mathematics,17,16,16,20,Low,Low,4,2
+320,Female,21,Small,Higher,Secondary,Mathematics,17,17,17,12,High,Low,5,2
+321,Male,21,Small,Higher,Secondary,Mathematics,11,11,17,11,Medium,Medium,2,5
+322,Male,19,Medium,Higher,Secondary,Machine Learning,16,14,10,14,Medium,Medium,4,2
+323,Male,21,Medium,Higher,Higher,Mathematics,12,10,12,13,High,Medium,5,4
+324,Male,21,Small,Secondary,Secondary,Machine Learning,10,15,18,16,Low,Medium,4,4
+325,Male,21,Medium,Secondary,Higher,Mathematics,17,12,19,13,High,Medium,2,5
+326,Female,19,Small,Higher,Secondary,Mathematics,15,14,14,20,Low,Low,4,4
+327,Female,19,Small,Higher,Secondary,Mathematics,18,12,15,15,Medium,Low,5,5
+328,Male,21,Medium,Higher,Secondary,Machine Learning,14,10,10,19,Medium,Medium,3,5
+329,Female,19,Medium,Higher,Secondary,Machine Learning,18,19,16,18,High,Medium,3,5
+330,Male,19,Medium,Secondary,Secondary,Mathematics,18,14,15,13,Medium,High,2,5
+331,Male,21,Medium,Higher,Secondary,Mathematics,11,12,12,15,Low,High,3,2
+332,Male,19,Medium,Higher,Higher,Mathematics,15,13,13,20,Medium,Medium,3,5
+333,Female,21,Small,Higher,Secondary,Mathematics,11,13,14,18,Medium,High,3,2
+334,Female,19,Medium,Higher,Higher,Mathematics,13,14,12,16,Medium,Medium,4,5
+335,Female,21,Small,Secondary,Higher,Machine Learning,11,19,11,20,Low,Low,5,4
+336,Female,21,Medium,Secondary,Higher,Mathematics,16,11,15,10,Low,Medium,3,3
+337,Male,21,Medium,Secondary,Higher,Mathematics,14,15,20,11,Medium,Medium,3,4
+338,Male,20,Small,Higher,Secondary,Machine Learning,19,18,20,11,Medium,High,2,5
+339,Male,18,Small,Secondary,Secondary,Mathematics,20,15,11,19,Medium,Medium,4,5
+340,Male,18,Small,Secondary,Secondary,Mathematics,12,19,11,19,Medium,Medium,4,3
+341,Female,21,Medium,Higher,Higher,Machine Learning,19,14,17,16,Medium,Medium,2,4
+342,Female,19,Small,Higher,Secondary,Machine Learning,18,17,16,14,Low,Medium,3,3
+343,Female,18,Medium,Higher,Higher,Machine Learning,17,13,11,20,Low,Medium,4,5
+344,Female,20,Small,Secondary,Higher,Mathematics,12,13,18,20,Low,Low,2,2
+345,Male,20,Small,Secondary,Higher,Machine Learning,14,11,14,10,Low,Medium,5,2
+346,Female,19,Medium,Secondary,Secondary,Machine Learning,16,19,18,18,High,High,2,4
+347,Female,20,Medium,Secondary,Secondary,Machine Learning,14,10,16,17,Low,Medium,2,3
+348,Female,19,Small,Higher,Higher,Machine Learning,16,13,13,11,High,Medium,3,4
+349,Male,18,Small,Higher,Secondary,Mathematics,15,11,17,19,Medium,Medium,3,5
+350,Male,18,Medium,Higher,Secondary,Mathematics,20,17,20,13,Medium,Low,4,2
+351,Male,21,Small,Higher,Higher,Mathematics,17,11,11,14,Low,Medium,4,3
+352,Male,21,Small,Secondary,Secondary,Machine Learning,18,18,18,13,Low,Low,4,4
+353,Male,18,Medium,Secondary,Higher,Mathematics,10,12,12,18,Medium,Medium,5,2
+354,Female,21,Small,Higher,Higher,Mathematics,14,17,20,10,Low,High,4,2
+355,Female,21,Small,Higher,Higher,Machine Learning,19,18,16,18,Medium,High,5,3
+356,Male,18,Small,Secondary,Secondary,Mathematics,15,19,11,16,High,High,2,3
+357,Male,18,Small,Secondary,Higher,Machine Learning,20,17,10,16,High,Medium,3,3
+358,Male,18,Small,Higher,Secondary,Mathematics,16,13,20,16,High,High,5,5
+359,Male,19,Small,Secondary,Higher,Mathematics,12,17,11,10,Medium,High,2,2
+360,Female,19,Small,Higher,Secondary,Machine Learning,10,12,16,16,Low,Medium,3,2
+361,Male,19,Medium,Secondary,Secondary,Machine Learning,18,15,17,20,Low,Medium,4,3
+362,Male,21,Medium,Secondary,Higher,Mathematics,11,11,16,17,High,Low,3,4
+363,Female,19,Medium,Secondary,Higher,Machine Learning,17,20,10,11,Low,High,5,2
+364,Female,18,Small,Secondary,Secondary,Mathematics,16,16,12,15,High,Low,2,3
+365,Male,21,Small,Higher,Higher,Mathematics,14,13,15,11,High,Medium,2,5
+366,Female,19,Small,Higher,Higher,Machine Learning,10,14,15,11,Low,High,3,4
+367,Male,21,Small,Higher,Secondary,Machine Learning,11,12,15,11,Medium,High,3,4
+368,Female,20,Medium,Secondary,Higher,Mathematics,20,14,14,18,Medium,Low,2,5
+369,Female,21,Small,Secondary,Secondary,Mathematics,10,13,20,19,Low,Medium,4,4
+370,Male,19,Medium,Secondary,Higher,Mathematics,14,19,12,17,Medium,Medium,2,4
+371,Female,18,Small,Secondary,Secondary,Machine Learning,20,20,13,12,Medium,Medium,2,5
+372,Female,21,Small,Higher,Higher,Machine Learning,18,16,14,17,Medium,Medium,5,4
+373,Female,19,Small,Secondary,Higher,Machine Learning,16,15,15,12,Medium,Low,5,4
+374,Male,18,Medium,Higher,Higher,Machine Learning,14,17,20,13,Medium,Low,4,4
+375,Male,19,Small,Secondary,Higher,Mathematics,15,19,18,12,Medium,Low,4,2
+376,Male,18,Small,Secondary,Secondary,Mathematics,17,14,13,20,Low,Low,5,5
+377,Male,18,Small,Secondary,Secondary,Mathematics,11,20,18,13,High,Low,3,4
+378,Female,19,Medium,Higher,Higher,Mathematics,10,20,11,15,High,High,3,5
+379,Male,18,Small,Higher,Higher,Mathematics,17,20,16,12,High,Medium,2,3
+380,Female,19,Small,Secondary,Secondary,Mathematics,16,11,18,14,High,Medium,5,5
+381,Female,20,Medium,Higher,Higher,Mathematics,13,14,17,16,High,High,5,2
+382,Male,19,Small,Secondary,Higher,Machine Learning,14,19,19,18,Medium,Medium,3,5
+383,Male,18,Small,Secondary,Secondary,Machine Learning,10,20,13,17,Low,Medium,2,2
+384,Female,20,Small,Secondary,Higher,Mathematics,20,12,20,17,Medium,High,2,3
+385,Male,19,Small,Higher,Secondary,Mathematics,13,10,11,18,Low,Medium,4,5
+386,Male,20,Medium,Higher,Higher,Mathematics,11,14,12,20,Low,Medium,4,3
+387,Female,21,Medium,Higher,Higher,Mathematics,14,16,13,15,High,Medium,3,5
+388,Male,19,Small,Secondary,Secondary,Machine Learning,15,13,18,12,Low,Low,2,4
+389,Female,20,Small,Higher,Higher,Mathematics,15,10,13,10,High,High,4,4
+390,Male,21,Small,Secondary,Secondary,Machine Learning,12,19,17,14,Medium,Medium,3,5
+391,Female,18,Small,Higher,Higher,Mathematics,19,11,14,10,High,Medium,3,4
+392,Male,21,Small,Secondary,Secondary,Machine Learning,17,15,17,17,Low,Medium,3,2
+393,Female,18,Small,Secondary,Higher,Machine Learning,14,20,19,11,Medium,Medium,4,5
+394,Male,21,Small,Secondary,Higher,Mathematics,13,18,12,13,High,Medium,2,5
+395,Male,19,Medium,Higher,Secondary,Machine Learning,19,11,11,10,Medium,Low,4,3
+396,Female,19,Medium,Higher,Higher,Mathematics,17,17,18,11,Medium,Medium,4,2
+397,Male,20,Medium,Secondary,Secondary,Mathematics,11,20,20,19,High,Medium,2,2
+398,Male,20,Medium,Secondary,Higher,Machine Learning,17,14,11,14,High,Low,4,2
+399,Female,20,Small,Higher,Secondary,Mathematics,12,13,18,14,Low,High,4,3
+400,Female,21,Medium,Higher,Secondary,Mathematics,10,18,14,12,High,Low,4,5
+401,Female,19,Medium,Higher,Higher,Machine Learning,20,19,17,17,Low,High,4,2
+402,Female,21,Medium,Higher,Secondary,Mathematics,18,13,20,11,High,Medium,4,3
+403,Male,21,Medium,Secondary,Secondary,Mathematics,13,17,20,15,Medium,High,4,5
+404,Female,19,Medium,Higher,Higher,Mathematics,14,19,15,11,Medium,Medium,4,2
+405,Female,21,Medium,Secondary,Secondary,Machine Learning,14,17,13,10,High,High,2,3
+406,Male,20,Small,Secondary,Higher,Mathematics,15,16,16,19,High,Low,3,5
+407,Female,21,Medium,Secondary,Secondary,Machine Learning,13,17,12,17,High,High,5,5
+408,Female,21,Medium,Secondary,Higher,Machine Learning,19,11,17,10,Medium,High,5,4
+409,Female,21,Small,Higher,Higher,Mathematics,12,11,17,14,Low,High,5,3
+410,Male,19,Medium,Higher,Secondary,Machine Learning,14,11,12,10,Low,Medium,3,2
+411,Male,19,Small,Secondary,Higher,Mathematics,17,20,19,15,High,Medium,3,4
+412,Male,21,Small,Higher,Higher,Mathematics,17,11,20,13,Low,High,5,3
+413,Female,19,Medium,Secondary,Higher,Mathematics,11,19,13,13,Medium,High,2,5
+414,Female,18,Medium,Secondary,Higher,Mathematics,19,19,18,20,High,High,3,2
+415,Male,18,Small,Secondary,Higher,Machine Learning,12,16,12,14,High,High,4,2
+416,Female,19,Medium,Secondary,Secondary,Mathematics,13,14,16,20,Low,Low,4,2
+417,Male,18,Small,Higher,Higher,Machine Learning,10,18,19,18,High,Low,4,2
+418,Male,19,Medium,Secondary,Secondary,Mathematics,10,19,18,14,Medium,Low,4,3
+419,Male,18,Medium,Higher,Higher,Machine Learning,19,14,10,16,Medium,Medium,2,4
+420,Male,19,Medium,Secondary,Secondary,Mathematics,19,15,12,18,High,Medium,4,3
+421,Female,18,Small,Higher,Higher,Mathematics,11,19,14,14,Medium,Medium,5,3
+422,Male,18,Medium,Higher,Higher,Mathematics,20,11,12,12,Medium,Low,5,2
+423,Male,18,Medium,Secondary,Secondary,Machine Learning,12,11,11,14,Low,Low,5,5
+424,Female,19,Small,Higher,Secondary,Machine Learning,19,15,13,14,Low,Medium,2,3
+425,Male,19,Small,Higher,Higher,Machine Learning,13,11,14,10,Medium,Low,2,4
+426,Female,21,Medium,Secondary,Higher,Mathematics,13,15,19,19,Medium,Low,5,5
+427,Female,21,Small,Secondary,Higher,Machine Learning,20,17,19,18,High,Medium,3,4
+428,Male,20,Medium,Secondary,Higher,Mathematics,10,19,12,15,High,Low,2,3
+429,Female,20,Medium,Secondary,Higher,Mathematics,15,18,15,11,High,Medium,4,4
+430,Female,18,Medium,Secondary,Higher,Mathematics,18,16,15,11,Low,High,4,4
+431,Male,20,Medium,Higher,Higher,Machine Learning,18,18,10,10,High,Low,4,2
+432,Female,18,Small,Higher,Secondary,Mathematics,12,20,18,14,Medium,High,4,2
+433,Female,19,Medium,Secondary,Higher,Mathematics,16,15,13,18,Medium,Low,2,4
+434,Male,21,Small,Secondary,Secondary,Machine Learning,16,13,10,16,High,High,5,5
+435,Male,20,Small,Higher,Secondary,Machine Learning,19,15,19,18,Low,Low,4,2
+436,Female,20,Medium,Secondary,Higher,Mathematics,14,10,16,19,Medium,High,3,5
+437,Male,18,Medium,Secondary,Secondary,Mathematics,19,18,19,12,Medium,High,3,3
+438,Male,20,Small,Secondary,Secondary,Mathematics,12,15,12,12,Medium,High,3,4
+439,Female,20,Small,Secondary,Higher,Mathematics,15,10,16,14,Medium,Low,4,2
+440,Male,18,Medium,Secondary,Secondary,Mathematics,13,18,17,16,Low,Low,4,4
+441,Female,19,Small,Secondary,Secondary,Machine Learning,19,11,17,17,High,Medium,4,5
+442,Female,18,Small,Secondary,Secondary,Mathematics,16,10,14,12,Low,High,2,4
+443,Female,18,Small,Secondary,Higher,Machine Learning,19,15,20,11,High,High,3,4
+444,Male,19,Medium,Secondary,Secondary,Machine Learning,20,10,16,10,Medium,Medium,2,4
+445,Female,19,Medium,Secondary,Secondary,Mathematics,17,19,10,13,Medium,Low,3,4
+446,Female,20,Medium,Secondary,Higher,Machine Learning,20,14,16,13,Low,Medium,3,3
+447,Male,20,Medium,Secondary,Secondary,Mathematics,13,18,11,14,Low,High,4,4
+448,Female,21,Small,Secondary,Secondary,Machine Learning,14,18,10,12,High,Medium,3,4
+449,Female,19,Medium,Higher,Higher,Mathematics,11,13,10,11,Low,Medium,5,4
+450,Female,21,Medium,Higher,Higher,Machine Learning,14,13,12,20,High,Medium,4,4
+451,Male,21,Medium,Higher,Secondary,Mathematics,10,16,20,10,Medium,High,3,2
+452,Male,19,Small,Higher,Higher,Machine Learning,14,12,18,15,Low,High,5,3
+453,Female,18,Small,Higher,Higher,Machine Learning,11,15,10,14,Medium,Low,2,2
+454,Female,20,Medium,Secondary,Higher,Mathematics,11,10,16,14,Low,High,2,4
+455,Male,18,Small,Higher,Higher,Mathematics,15,18,15,19,Medium,Low,3,5
+456,Female,19,Small,Higher,Secondary,Machine Learning,14,11,17,17,High,Medium,4,4
+457,Female,21,Small,Secondary,Secondary,Machine Learning,14,20,18,15,Low,Medium,3,2
+458,Female,19,Medium,Secondary,Secondary,Mathematics,19,20,11,16,High,Low,2,4
+459,Male,20,Small,Secondary,Higher,Mathematics,10,14,10,16,High,High,3,3
+460,Female,21,Small,Higher,Secondary,Mathematics,20,20,19,10,High,High,3,3
+461,Male,19,Medium,Secondary,Secondary,Machine Learning,10,13,13,18,Low,Medium,5,5
+462,Male,21,Small,Higher,Higher,Mathematics,20,13,18,20,High,Medium,3,5
+463,Female,21,Small,Higher,Secondary,Mathematics,15,19,10,20,High,Medium,3,3
+464,Female,20,Medium,Secondary,Secondary,Mathematics,17,13,20,16,Low,Low,5,3
+465,Male,18,Small,Higher,Secondary,Mathematics,15,20,13,16,High,High,3,2
+466,Female,19,Medium,Higher,Higher,Mathematics,18,12,11,14,Medium,Medium,4,5
+467,Male,19,Medium,Secondary,Higher,Machine Learning,15,11,13,13,Low,Medium,3,5
+468,Male,21,Medium,Higher,Higher,Mathematics,11,11,16,16,Low,Low,4,3
+469,Female,20,Medium,Secondary,Secondary,Machine Learning,12,11,13,12,High,High,2,2
+470,Female,20,Medium,Secondary,Higher,Machine Learning,20,15,11,10,High,Medium,5,5
+471,Male,20,Small,Higher,Higher,Mathematics,20,13,18,12,High,High,5,2
+472,Female,18,Small,Secondary,Higher,Machine Learning,17,17,18,16,Medium,Low,5,5
+473,Female,18,Small,Higher,Higher,Machine Learning,14,11,12,20,Low,Medium,5,3
+474,Male,21,Medium,Secondary,Secondary,Machine Learning,12,10,17,12,High,Medium,4,4
+475,Male,21,Medium,Secondary,Higher,Machine Learning,14,12,18,20,Medium,Low,4,4
+476,Female,18,Medium,Higher,Secondary,Machine Learning,19,14,12,16,High,Medium,2,5
+477,Female,18,Small,Secondary,Secondary,Machine Learning,13,15,19,20,High,Medium,2,3
+478,Male,18,Medium,Secondary,Higher,Mathematics,19,10,16,15,Medium,High,4,4
+479,Female,19,Small,Higher,Higher,Machine Learning,13,13,10,11,Low,High,2,5
+480,Female,18,Medium,Higher,Secondary,Machine Learning,11,11,10,13,High,Medium,4,4
+481,Male,21,Medium,Secondary,Higher,Mathematics,16,19,20,14,Low,High,3,2
+482,Male,21,Small,Higher,Secondary,Mathematics,13,11,16,14,Medium,Medium,4,3
+483,Male,20,Medium,Higher,Higher,Mathematics,13,15,17,12,Medium,Medium,5,3
+484,Male,20,Medium,Higher,Higher,Mathematics,11,18,19,10,High,Medium,4,3
+485,Female,21,Medium,Secondary,Secondary,Mathematics,16,13,20,11,Medium,High,5,2
+486,Female,18,Medium,Higher,Secondary,Machine Learning,11,16,11,12,Medium,Medium,3,3
+487,Female,18,Medium,Higher,Higher,Mathematics,10,12,11,13,Medium,Low,2,4
+488,Male,18,Medium,Higher,Higher,Mathematics,13,13,18,19,High,High,4,5
+489,Female,19,Medium,Secondary,Secondary,Machine Learning,16,13,12,18,Medium,Low,4,2
